@@ -1,5 +1,5 @@
 
-import './App.css';
+import '../App.css';
 
 function List({ searchedList, searchText }) {
     // console.log(searchedList);
